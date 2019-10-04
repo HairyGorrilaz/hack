@@ -2,7 +2,7 @@
   "name": "hackathon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HairyGorrilaz.github.io/hack",
+  "homepage": "https://hairygorrilaz.github.io/hack/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
